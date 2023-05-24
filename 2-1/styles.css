@@ -3,3 +3,15 @@ html {
         color: black;
         text-align: center;
 }
+a:link, a:visited {
+    background-color: #ed83e9;
+    color: rgb(8, 0, 0);
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: #9a4297;
+  }
