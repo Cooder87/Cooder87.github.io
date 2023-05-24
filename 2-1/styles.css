@@ -1,7 +1,8 @@
-html {
+body {
    background-color:#490a49;
         color: black;
         text-align: center;
+        font-size: 18;
 }
 a:link, a:visited {
     background-color: #ed83e9;
