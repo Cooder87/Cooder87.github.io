@@ -28,4 +28,9 @@ a:link, a:visited {
     border: 5px solid #ffffff;
     background-color: #fcfcfc;
   }
+
+  img {
+    float: none;
+    text-align: center;
+}
  
