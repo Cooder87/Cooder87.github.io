@@ -36,5 +36,6 @@ a:link, a:visited {
 
 table{
   text-align: center;
+  display: inline-block;
 }
  
