@@ -77,7 +77,7 @@ width: 251px;
 height: 54px;
 left: 341px;
 top: 526px;
-
+display: inline-block;
 background: #031CFF;
 border-radius: 100px;
 }
