@@ -22,3 +22,12 @@ a:link, a:visited {
     border: 5px solid #ffffff;
     background-color: #fcfcfc;
   }
+  div {
+    height: 50px;
+    width: 100%;
+    border: 5px solid #ffffff;
+    background-color: #fcfcfc;
+  }
+  img {
+    float: right;
+  }
