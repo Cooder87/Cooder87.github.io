@@ -62,3 +62,22 @@ Figma{
     
     color: #FFFFFF;
 }
+line{
+    position: absolute;
+    width: 343px;
+    height: 0px;
+    left: 525px;
+    top: 466px;
+    
+    border: 2px solid #FFFFFF;
+}
+r4{
+position: absolute;
+width: 251px;
+height: 54px;
+left: 341px;
+top: 526px;
+
+background: #031CFF;
+border-radius: 100px;
+}
