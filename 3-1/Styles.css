@@ -1,0 +1,30 @@
+Rectangle{
+    position: absolute;
+width: 1360px;
+height: 616px;
+left: 40px;
+top: 99px;
+background: url(image.png);
+
+}
+
+Rectangle2
+{
+    position: absolute;
+    width: 420px;
+    height: 747px;
+    left: 980px;
+    top: 99px;
+    background: #031CFF;
+    mix-blend-mode: multiply;
+}
+Rectangle3{
+position: absolute;
+width: 1360px;
+height: 202px;
+left: 1400px;
+top: 715px;
+background: linear-gradient(180deg, #CE9671 -0.5%, rgba(206, 150, 113, 0) 100%);
+background-blend-mode: screen;
+transform: rotate(-180deg);
+}
