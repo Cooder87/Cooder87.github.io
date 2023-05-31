@@ -16,8 +16,9 @@ a:link, a:visited {
   a:hover, a:active {
     background-color: #9a4297;
   }
-  div {
+  p {
     height: 50px;
     width: 100%;
-    border: 1px solid #ffffff;
+    border: 5px solid #ffffff;
+    background-color: #fcfcfc;
   }
