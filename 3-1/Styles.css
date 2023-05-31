@@ -28,3 +28,37 @@ background: linear-gradient(180deg, #CE9671 -0.5%, rgba(206, 150, 113, 0) 100%);
 background-blend-mode: screen;
 transform: rotate(-180deg);
 }
+
+Goplaces{
+    position: absolute;
+width: 358px;
+height: 93px;
+left: 341px;
+top: 350px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 78.9191px;
+line-height: 92px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+Figma{
+    position: absolute;
+    width: 104px;
+    height: 22px;
+    left: 341px;
+    top: 443px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    
+    color: #FFFFFF;
+}
