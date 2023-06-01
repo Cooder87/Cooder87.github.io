@@ -80,4 +80,16 @@ top: 526px;
 display: inline-block;
 background: #031CFF;
 border-radius: 100px;
+background-color: #031CFF;
+color: rgb(8, 0, 0);
+padding: 14px 25px;
+text-align: center;
+text-decoration: none;
+
+}
+
+body
+{
+    text-align: center;
+    font-size: medium;
 }
