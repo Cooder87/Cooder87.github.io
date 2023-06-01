@@ -1,4 +1,4 @@
-Rectangle1{
+.Rectangle1{
     position: absolute;
 width: 1360px;
 height: 616px;
@@ -8,7 +8,7 @@ background: url(image.png);
 
 }
 
-Rectangle2
+.Rectangle2
 {
     position: absolute;
     width: 420px;
@@ -18,7 +18,7 @@ Rectangle2
     background: #031CFF;
     mix-blend-mode: multiply;
 }
-Rectangle3{
+.Rectangle3{
 position: absolute;
 width: 1360px;
 height: 202px;
@@ -29,7 +29,7 @@ background-blend-mode: screen;
 transform: rotate(-180deg);
 }
 
-Goplaces{
+.Goplaces{
     position: absolute;
 width: 358px;
 height: 93px;
@@ -47,7 +47,7 @@ line-height: 92px;
 color: #FFFFFF;
 }
 
-Figma{
+.Figma{
     position: absolute;
     width: 104px;
     height: 22px;
@@ -71,7 +71,7 @@ line{
     
     border: 2px solid #FFFFFF;
 }
-r4{
+.r4{
 position: absolute;
 width: 251px;
 height: 54px;
@@ -105,3 +105,24 @@ body
     text-align: center;
     font-size: medium;
 }
+.container {
+    position: relative;
+  }
+  .centered {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    font-size: 18px;
+  }
+  .topright {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    font-size: 18px;
+  }
+  .bottomleft {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    font-size: 18px;
+  }
