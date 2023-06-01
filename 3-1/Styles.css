@@ -87,6 +87,18 @@ text-align: center;
 text-decoration: none;
 
 }
+a:link, a:visited {
+    background-color: #031CFF;
+    color: rgb(8, 0, 0);
+    padding: 14px 25px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: #031CFF;
+  }
 
 body
 {
